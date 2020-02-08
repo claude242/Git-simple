@@ -4,15 +4,15 @@
 
 ageIndividu = input("Veuillez entrer votre age")
 
-#print(ageIndividu)
+print(ageIndividu)
 
-#print(type(ageIndividu))
+print(type(ageIndividu))
 
 # ici nous convertissons la variable ageIndividu en un entier
-ageIndividu = int(ageIndividu)
+#ageIndividu = int(ageIndividu)
 
-if(ageIndividu >= 18):
-	print("Vous etes majeur")
+#if(ageIndividu >= 18):
+	#print("Vous etes majeur")
 
-else:
-	print("Vous etes mineur")
+#else:
+	#print("Vous etes mineur")
