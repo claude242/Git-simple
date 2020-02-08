@@ -8,7 +8,7 @@ print(" ")
 
 class Calcul:
 
-#def __init__(self, nbre1,nbre2):
+
 
 
 def Multiplication(cn,ch):
